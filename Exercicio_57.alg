@@ -12,10 +12,6 @@ escreva("* Digite os minutos: ")
 leia(min)
 escreva("* Digite os segundos: ")
 leia(seg)
-
-hr <- hr * 3600
-min <- min * 60
-total <- hr + min + seg
-
+total <- hr*3600+min*60+seg
 escreva("* O total em segundos é:  ",total)
 fimalgoritmo
