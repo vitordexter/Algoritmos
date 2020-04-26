@@ -18,7 +18,7 @@ EXERCÍCIOS DE CONDICIONAL (ESTRUTURA DE REPETIÇÃO)
 
 8) Faça um programa que receba dois números inteiros quaisquer e verifique se o primeiro é múltiplo do segundo.
 
-9)Um cliente ao adquirir um determinado produto em uma loja, foi informado de que havia descontos progressivos conforme a quantidade de unidades compradas. O preço unitário é de R$ 75,00. Faça um programa que receba a quantidade de produtos e apresente na tela o valor pago:
+9) Um cliente ao adquirir um determinado produto em uma loja, foi informado de que havia descontos progressivos conforme a quantidade de unidades compradas. O preço unitário é de R$ 75,00. Faça um programa que receba a quantidade de produtos e apresente na tela o valor pago:
 
 * sem desconto se a compra for menor que 10 unidades;
 * desconto de 10% se a compra for acima de 10 unidades;
